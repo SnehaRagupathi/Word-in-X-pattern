@@ -1,0 +1,1 @@
+# Word-in-X-pattern
